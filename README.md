@@ -14,7 +14,7 @@ This git repository was used for a small Deep Learning Bootcamp that occured on 
   5. Now you are ready!
 
 # Running the bootcamp exercises
-This bootcamp will go through two simple hands-on examples to develop a classification model and an image segmentation model. The excerises will be run the Google CoLab (https://colab.research.google.com). Simply click on the **Open in CoLab** link at the top of the page from within GitHub. This will open a Jupyter Notebook using Google's CoLab service.
+This bootcamp will go through two simple hands-on examples to develop a classification model and an image segmentation model. The excerises will be run through Google CoLab (https://colab.research.google.com). Simply click on the **Open in CoLab** link at the top of the page from within GitHub. This will open a Jupyter Notebook using Google's CoLab service.
 
 1. **Exercise 1** MRI Sequence Type Detection: https://github.com/mimrtl/PETMR_Workshop_DL_Bootcamp/blob/master/MRI_Sequence_Detection.ipynb
 2. **Exercise 2** CT Lung Segmentation: https://github.com/mimrtl/PETMR_Workshop_DL_Bootcamp/blob/master/Lung_Segmentation.ipynb
