@@ -5,9 +5,9 @@ This git repository was used for a small Deep Learning Bootcamp that occured on 
 # Getting access to the data
 **Pre-requisite: A Google Acccount.**
 1. Please email Alan McMillan (abmcmillan@wisc.edu) to obtain access to the data. The data will be distributed via Google Drive. Please provide the email address attached to your Google Account.
-2. You will be invited to the shared data: PETMR_WORKSHOP_DL_BOOTCAMP_DATA
+2. You will be invited to the shared data: **PETMR_WORKSHOP_DL_BOOTCAMP_DATA**
 3. Next, add this to your Google Drive by following these steps:
-  1. Go to drive.google.com
+  1. Go to https://drive.google.com
   2. On the left, click **Shared with me**
   3. Click the folder **PETMR_WORKSHOP_DL_BOOTCAMP_DATA**
   4. In the top right, click **Add to My Drive**
