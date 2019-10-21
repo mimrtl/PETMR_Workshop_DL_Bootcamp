@@ -1,6 +1,6 @@
 # PETMR_Workshop_DL_Bootcamp
 
-These are the files used for a small Deep Learning Bootcamp that occured on 10/26/2019 at the SNMMI-ISMRM PET/MR Workshop in New York City (https://petmr2019.snmmi.org). This is based on a bootcamp run at the University of Wisconsin (https://github.com/kmjohnson3/ML4MI_BootCamp)
+This git repository was used for a small Deep Learning Bootcamp that occured on 10/26/2019 at the SNMMI-ISMRM PET/MR Workshop in New York City (https://petmr2019.snmmi.org). This is based on a bootcamp run at the University of Wisconsin (https://github.com/kmjohnson3/ML4MI_BootCamp)
 
 # Getting access to the data
 **Pre-requisite: A Google Acccount.**
