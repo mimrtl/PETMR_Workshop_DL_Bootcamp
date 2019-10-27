@@ -1,8 +1,8 @@
 # PETMR_Workshop_DL_Bootcamp
-
+## Overview
 This git repository was used for a small Deep Learning Bootcamp that occured on 10/26/2019 at the SNMMI-ISMRM PET/MR Workshop in New York City (https://petmr2019.snmmi.org). This is based on a bootcamp run at the University of Wisconsin (https://github.com/kmjohnson3/ML4MI_BootCamp)
 
-# Getting access to the data
+## 1. Getting access to the data
 **Pre-requisite: A Google Acccount.**
 1. Please complete the brief survey here: https://forms.gle/RjeWW82m1YgcdpF86
 2. You will be invited to the shared data: **PETMR_WORKSHOP_DL_BOOTCAMP_DATA**
@@ -13,7 +13,7 @@ This git repository was used for a small Deep Learning Bootcamp that occured on 
     4. In the top right, click **Add to My Drive**
     5. Now you are ready!
 
-# Running the bootcamp exercises
+## 2. Running the bootcamp exercises
 This bootcamp will go through two simple hands-on examples to develop a classification model and an image segmentation model. The excerises will be run through Google CoLab (https://colab.research.google.com). Simply click on the **Open in CoLab** link at the top of the page from within GitHub. This will open a Jupyter Notebook using Google's CoLab service.
 
 1. **Exercise 1** MRI Sequence Type Detection:
