@@ -18,7 +18,7 @@ This bootcamp will go through two simple hands-on examples to develop a classifi
 
 1. **Exercise 1** MRI Sequence Type Detection:
     * https://github.com/mimrtl/PETMR_Workshop_DL_Bootcamp/blob/master/MRI_Sequence_Detection.ipynb
-    * **Solution** - https://github.com/mimrtl/PETMR_Workshop_DL_Bootcamp/blob/master/MRI_Sequence_Detection.ipynb
+    * **Solution** - https://github.com/mimrtl/PETMR_Workshop_DL_Bootcamp/blob/master/MRI_Sequence_Detection_SOLUTION.ipynb
 
 2. **Exercise 2** CT Lung Segmentation:
     * https://github.com/mimrtl/PETMR_Workshop_DL_Bootcamp/blob/master/Lung_Segmentation_SOLUTION.ipynb
